@@ -1,0 +1,9 @@
+Zadanie 5
+zaimplementowac zadanie 4 za pomoca potokow nazwanych
+podpunkkt a:
+stworzyc osobny program w ktorym tworzymy potok za pomoca funkcji mkfifo oraz storzenie dwoch nowych procesow potomnych w ktorych za pomoca funkcji execl uruchamiamy odpowiednio program dla konsumenta oraz dla prosucenta.
+podpunktb:
+z poziomu powloki utwrozyc potok oraz uruchomic w roznych terminalach programy producenta i konsumenta. Tworzenie potoku oraz uruchamianie programu tworzymy w makefile
+
+uruchomienie podpunktu a nalezy wpisac: make runA
+uruchomienie podpunktu b nalezy wpisac: make runB
