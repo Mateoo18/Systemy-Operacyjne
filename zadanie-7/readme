@@ -1,0 +1,7 @@
+ZADANIE 7
+program przedstawia problem producent konsument uzywajac pamieci dzielonej i semaforow.
+uruchomic program mozna na 3 sposoby
+1-dla programu korzystajacego z biblioteki statycznej: make run-cw7static
+2-dla programu korzystajcego z biblioteki dzielonej (wersja make 1): make run-cw7shared1
+3-dla programu korzystajcego z biblioteki dzielonej (wersja make 2): make run-cw7shared2
+
