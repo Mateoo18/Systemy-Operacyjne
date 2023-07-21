@@ -1,0 +1,8 @@
+Program demonstruje zadanie Producent-konsument. Polega ono na przeslaniu "towaru" od producenta do konsumenta tak aby nie doszlo do utraty ani zwielokrotnienia towaru. Producent pobiera "towar" z pliku tekstowego i wstawia go jako towar do potoku, a Konsument  umieszcza pobrany z potoku towar w innym pliku tekstowym.
+Po zakonczeniu działania zostaje wyswietlona roznica pomiedzy plikami(powinny byc identyczne)
+Aby uruchomic program nalezy wpisac komende: make runzad4
+Zawarte pliki w katalogu:
+zad4.c=glowny program 
+producer-plik tekstowy z ktorego pobieramy "towar"
+konsument-plik tekstowy do ktorego zapisujemy "towar"
+makefile-do kompilacji
