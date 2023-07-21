@@ -1,0 +1,9 @@
+Za pomocą programu rozwiązujemy problem korzystania z zasobu wspóldzielnego przez kilka procesów. Odzwierciedleniem poprawnosci działalnosci problemu obrazuje plik numer.txt do ktorego wpisujemy liczbe o jeden wieksza od poprzednej kiedy jestesmy w krytycznej sekcji. Jezeli bedzie ona rowna ilosci procesow razy ilosci sekcji to bedzie to oznaczalo ze synchronizacja dziala. 
+Zawartosc plikow 
+-makefile
+-powiel.c( glowny )
+-semfunk.c
+-semfunk.h
+-wyklproc.c
+
+aby uruchomic program nalezy wpisac w terminal- make runzad6
